@@ -8,6 +8,5 @@ public class Main {
         Circle circle = new Circle();
         System.out.println(circle);
         System.out.println("Hello world!");
-        System.out.println("Hello world!");
     }
 }
